@@ -1,0 +1,1 @@
+In this project we try to build a tetrimino puzzle where our goal is to fit all the tetrimino blocks into the smallest possible square. We utilize recursion and backtracking algorithmn. If you want the execution faster than this can also be done using bitwise operators but is much more complicated.
